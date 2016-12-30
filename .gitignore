@@ -1,0 +1,17 @@
+#Ignore binaries
+*.aps
+*.db
+*.dll
+*.exe
+*.exp
+*.idb
+*.lib
+*.log
+*.obj
+*.opendb
+*.pdb
+*.res
+*.tlog
+*.user
+*.xml
+*.ilk
